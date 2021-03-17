@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+<html>
+
+<html lang="en">
+<head>
+    
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>BooksGalore</title>
+    
+
+
+
+    
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container-fluid">
+
+        <ul class="pull-left">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="About.html">About</a></li>
+        </ul>
+        
+        <ul class="pull-right">
+          
+
+          
+          <li class="dropdown">
+
+    <a href="essays.html" button class="dropbtn">Essays</button></a>
+    <div class="dropdown-content">
+      <a href="whereconversationsbegin.html">Where Conversations Begin</a>
+      <a href="whereartmeetswords.html">Where Art Meets Words</a>
+      <a href="wordswordswords.html">Words, words, words</a>
+      <a href="whywrite.html">Why Write</a>
+    </div>
+  </li>
+          <li><a href="archive.html">Archive</a></li>
+         
+         
+        </ul>
+
+
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Book Reviews</h1>
+        <p>So many books. So little time.</p>
+        
+      </div>
+    </div> 
+
+    
+    
+    <div class="reviews">
+    <div class="container">
+   
+    <div class="row">
+      <div class="thumbnail">
+        <div class="col-md-3">
+            <a href="whatisawhisperysecret.html"><img src="whatisawhisperysecret.jpg" /></a>
+        </div>
+    
+ 
+
+
+  <div class="col-md-6">
+        
+         <h1> What Is A Whispery Secret<span> by</span> Lois Hobart</h1>
+
+<p>A whisper-quiet book, perfect for when the day is winding down. When the bright sun bids adieu, taking its energy to the other hemisphere. When the cooler light of the moon arrives.</p>
+<p>&#34What is a whisper?&#34 the book begins.</p>
+<p>&#34It’s a tiny little, quiet little, soft little voice—<i><font size ='-1'>like this</font size></i>.&#34</p>
+<p>And with this opening the author-artist pair create a small gem of a book. A conversation between a young boy and girl. The boy has questions, the girl’s answers take us on a journey into the natural world and back.<p>
+<p>What is a whisper?</p>
+<p>A whisper does not have to be between people. The long, rustly grass whispers. Leaves whisper as they dance in they breeze. And come autumn, they whisper as they fall—“crisp curls of yellow, red, or brown”. Surely kittens whisper as they snuggle up in your lap.</p>
+<p>Notice, dear reader, the use of the sibilant ’s’. A soothing sound.</p> 
+<p>What is a secret?</p>
+<p>By now we should expect that it is not necessarily something between people. It could be something imagined—a pony galloping free, or desired.Something you see or hear:</p> 
+<p>&#34…a bullfrog puffing out his throat in the pond.&#34</p>
+<p>The artist Martha Alexander perfectly captures the quietness of the story  through the gray/white color palette with touches of blue and a light-spring-green.</p>
+<p>And what is a &#34whispery secret&#34?</p>
+<p>Ah the beauty of word and picture superbly matched:</p>
+<p>&#34Have you ever seen a mare look around and nuzzle her colt.&#34</p>
+<p>&#34Have you ever seen a giraffe stretch her winding neck way down to lick her spindly-legged spotted baby&#34</p>
+<p>And &#34the whisperiest secret of all?&#34 A hug and the whisper <i><font size ='-1'>I love you</font size></i>. The quietness has built up to this perfect ending.</p>
+
+
+
+
+
+
+
+
+<div class="footer1">
+
+<p><span>Title:</span> What Is A Whispery Secret</p>
+<p><span>Author:</span> Lois Hobart</p>
+<p><span>Illustrator:</span> Martha Alexander</p>
+<p><span>Publisher:</span> Parent's Magazine Press</p>
+<p><span>Hardback:</span> 52 pages</p>
+<p><span>ISBN:</span> 0819302317</p>
+</div>
+</div>
+
+         <div class="col-md-3">
+          <div class = "links">
+
+
+  <h4>Blogs/Sites I Follow</h4>
+        <ul>
+          <li><a href="http://www.designofthepicturebook.com">Design of the Picture Book</a></li>
+          <li><a href="http://blaine.org/sevenimpossiblethings/?page_id=15">Seven Impossible Things Before Breakfast</a></li>
+          <li><a href="https://nerdybookclub.wordpress.com">Nerdy Book Club</a></li>
+          <li><a href="http://taralazar.com">Tara Lazar</a></li>
+          <li><a href="http://pajka.blogspot.com">Deaf Characters in Adolscent Literature</a></li>
+          <li><a href="http://www.artofthepicturebook.com">Art of the Picture Book</a></li>
+          <li><a href="http://www.onbeing.org">On Being <span>with</span> Krista Trippet</a></li>
+          <li><a href="https://www.brainpickings.org">Brain Pickings</a></li>
+          <li><a href="http://www.childrenswritersworld.blogspot.com">Children's Writer's World</a></li>
+          <li><a href="http://www.kidsimaginationtrain.com/">Kid's Imagination Train</a></li>
+        </ul>
+
+  </div>
+  </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="footer2">
+  <div class="container">
+    
+       <ul class="pull-left">
+  
+<li><a href=".html"></a></li>
+</ul>
+
+       <ul class="pull-right">
+  
+  
+<li><a href=".html"></a></li>
+</ul>
+</div>
+ 
+
+  <!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+  <div class="center">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+</div>
+</div>
+
+
+
+
+
+</body>
+</html>
